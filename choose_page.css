@@ -1,0 +1,38 @@
+html, body {
+  width: 300px;
+  color: #fff;
+  background-color: #272B35;
+}
+
+.title {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 12px;
+}
+
+.option-text {
+  width: 100%;
+  padding-left: 12px;
+  font-size: 12px;
+  text-align: left;
+}
+
+.footer {
+  width: 100%;
+  padding: 4px;
+  text-align: center;
+}
+
+.option-button {
+  width: 100%;
+  padding-left: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 12px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.option-button:hover {
+  background-color: #393F4C;
+}
