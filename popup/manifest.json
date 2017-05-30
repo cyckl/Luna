@@ -9,8 +9,8 @@
     "browser_style": true,
     "default_popup": "files/page.html",
     "default_icon": {
-      "16": "files/icons/radish16.png",
-      "32": "files/icons/radish32.png"
+      "16": "files/radish16.png",
+      "32": "files/radish32.png"
     }
   }
 
