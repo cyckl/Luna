@@ -4,7 +4,7 @@ Just an English project meant to parody TOR. Please keep in mind from now on tha
 # Getting needed programs and files
 To get the plugin ready for install, follow this guide.
 
-1. Download Firefox (v53 advised)
+1. Download Firefox <a href="https://www.mozilla.org/en-US/firefox/new/">here<a> (v53 advised)
 2. Download files for button
 
 # Enabling Plugin
