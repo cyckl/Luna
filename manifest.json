@@ -3,7 +3,7 @@
   "description": "Effortlessly change ROT HelixCore Settings",
   "manifest_version": 2,
   "name": "ROT Quick Settings",
-  "version": "0.0.1",
+  "version": "0.0.2",
  
   "browser_action": {
     "browser_style": true,
