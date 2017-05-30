@@ -10,11 +10,12 @@ To get the plugin ready for install, follow this guide.
 # Enabling Plugin
 To enable the plugin follow these steps.
 
-3. Once in Firefox, navigate to "about:debugging#addons" in your browser (remove quotes)
-4. Now click "Load Temporary Add-on"
-5. Select the "manifest.json" file from where you downloaded it.
+1. Open Firefox, then navigate to "about:addons" in your browser (remove quotes)
+2. Now click on the cog next to the search bar.
+3. Then, hit "Install add-on from file"
+4. Select the addon you downloaded.
+5. Done! How hard was that? We sent it to Mozilla to verify it just for you.
 
 # Sidenotes
-- Keep all the files in the hierarchy that you downloaded them.
-- You will have to do this on every browser restart.
 - These add-ons dont do anything, just look weird.
+- The add-on is in alpha, so dont expect anything of a normal add-on.
