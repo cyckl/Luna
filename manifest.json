@@ -2,12 +2,12 @@
 
   "description": "Effortlessly change ROT HelixCore Settings",
   "manifest_version": 2,
-  "name": "ROT Settings",
-  "version": "53.0",
+  "name": "ROT Quick Settings",
+  "version": "0.0.1",
  
   "browser_action": {
     "browser_style": true,
-    "default_popup": "popup/choose_page.html",
+    "default_popup": "popup/page.html",
     "default_icon": {
       "16": "icons/radish16.png",
       "32": "icons/radish32.png"
