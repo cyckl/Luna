@@ -7,7 +7,7 @@
  
   "browser_action": {
     "browser_style": true,
-    "default_popup": "popup/page.html",
+    "default_popup": "files/page.html",
     "default_icon": {
       "16": "icons/radish16.png",
       "32": "icons/radish32.png"
