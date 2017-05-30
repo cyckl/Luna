@@ -1,5 +1,5 @@
 # What is ROT?
-Just an English project meant to parody TOR. Please keep in mind from now on that this project isn't meant to accomplish anything, just look realistic.
+ROT is an open-source English project meant to parody TOR. Please keep in mind from now on that this project isn't meant to accomplish anything, just look realistic.
 
 # Getting needed programs and files
 To get the plugin ready for install, follow this guide.
