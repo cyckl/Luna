@@ -1,2 +1,2 @@
 # What is ROT?
-Just a school project meant to parody TOR.
+Just an english project meant to parody TOR.
