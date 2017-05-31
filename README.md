@@ -4,7 +4,7 @@ ROT is an open-source English project meant to parody TOR. Please keep in mind f
 # Getting needed programs and files
 To get the plugin ready for install, follow this guide.
 
-1. Download Firefox <a href="https://www.mozilla.org/en-US/firefox/new/">here<a> (v53 advised)
+1. Download Firefox <a href="https://www.mozilla.orgen-us/firefox/new/?scene=2">here<a> (v53 advised)
 2. Download files for button
 
 # Enabling Plugin
