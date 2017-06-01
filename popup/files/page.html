@@ -4,61 +4,23 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="choose_page.css"/>
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
   </head>
 
 <body>
-  <h1 class="title">ROT Quick Settings</h1>
-  <input type="button" onclick="alert('Proxy flush complete.')" value="Flush Proxy Settings"><br><br>
-  <label class="checkbox" for="condition3">Enable SuperCache</label>
-  <label class="checkbox" for="condition3">Toggle Transarent Browsing (ADMIN)</label>
-  <script src="choose_page.js"></script>
-  <p class="footer"><b>Made proudly in San Diego</b> by the ROT Team</p>
+	<h1 class="title">ROT Quick Settings</h1>
+
+	<div class="buttonholder">
+		<input type="button" class="button" value="Flush Proxy Settings">
+	</div>
+	
+	<input type="checkbox" class=settings_chkmrk" id="SuperCache" name="Enable Super Cashe" value="cacheenable">
+	<label class="checkbox" for="SuperCache">Enable SuperCache</label>
+	
+	<input type="checkbox" class=settings_chkmrk" id="T-Browsing" name="Toggle Transparent Browsing" value="t-browseenable">
+	<label class="checkbox" for="T-Browsing">Toggle Transarent Browsing (ADMIN)</label>
+
+	<p class="footer"><b>Made proudly in San Diego</b> by the ROT Team</p>
 </body>
 
 </html>
-
-<style>
-
-html, body {
-  width: 300px;
-  color: #fff;
-  background-color: #272B35;
-}
-
-.title {
-	padding-top: 0px;
-	padding-bottom: 0px;
-	padding-left: 12px;
-}
-
-.option-text {
-  width: 100%;
-  padding-left: 12px;
-  font-size: 12px;
-  text-align: left;
-}
-
-.footer {
-  width: 100%;
-  padding: 4px;
-  text-align: center;
-}
-
-.option-button {
-  width: 100%;
-  padding-left: 12px;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  font-size: 12px;
-  text-align: left;
-  cursor: pointer;
-}
-
-.option-button:hover {
-  background-color: #393F4C;
-}
-
-input {
-  padding: 4px;
-}
-</style>
