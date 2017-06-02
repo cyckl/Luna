@@ -19,12 +19,12 @@ To enable the plugin follow these steps.
 # Optional
 Here are some optional things you can do to enhance your experience.
 
-Set your theme to "Compact Dark"
+<b>Set your theme to "Compact Dark"</b>
 1. To do this, go to the customize option in the menu.
 2. On the bottom of the page, select the dropdown menu and select "Compact Dark"
 3. Your theme now matches the button.
 
-Set your homepage to Luna Search
+<b>Set your homepage to Luna Search</b>
 1. Doing this requires downloading the source code. You can do this <a href="https://www.github.com/d-nni3l/Luna/releases">here<a> by clicking the source code download for the latest version.
 2. Once your source code is downloaded, go ahead and extract it to a permanent place on your computer.
 3. Then just set your homepage to the HTML file.
