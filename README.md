@@ -10,11 +10,19 @@ To get the plugin ready for install, follow this guide.
 # Enabling Plugin
 To enable the plugin follow these steps.
 
-1. Open Firefox, then navigate to "about:addons" in your browser (remove quotes)
-2. Now click on the cog next to the search bar.
-3. Then, hit "Install add-on from file"
-4. Select the addon you downloaded.
-5. Done! How hard was that? We sent it to Mozilla to verify it just for you.
+1. Open Firefox, then navigate <a href="https://www.github.com/d-nni3l/Luna/releases">here<a>
+2. Click on the binary for the latest version 
+3. Then, hit install
+4. Done! How hard was that? We sent it to Mozilla to verify it just for you.
+
+
+# Optional
+Here are some optional things you can do to enhance your experience.
+
+Set your theme to "Compact Dark"
+1. To do this, go to the customize option in the menu.
+2. On the bottom of the page, select the dropdown menu and select "Compact Dark"
+3. Your theme now matches the button.
 
 # Sidenotes
 - These add-ons dont do anything, just look weird.
