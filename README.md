@@ -7,7 +7,7 @@ To get the plugin ready for install, follow this guide.
 1. Download Firefox <a href="https://www.mozilla.org/en-us/firefox/new/?scene=2">here<a> (v53 advised)
 2. Download latest version of button <a href="https://www.github.com/d-nni3l/Luna/releases">here<a>
 
-# Enabling Plugin
+# Enabling the plugin
 To enable the plugin follow these steps.
 
 1. Open Firefox, then navigate <a href="https://www.github.com/d-nni3l/Luna/releases">here<a>
@@ -24,6 +24,12 @@ Set your theme to "Compact Dark"
 2. On the bottom of the page, select the dropdown menu and select "Compact Dark"
 3. Your theme now matches the button.
 
+Set your homepage to Luna Search
+1. Doing this requires downloading the source code. You can do this <a href="https://www.github.com/d-nni3l/Luna/releases">here<a> by clicking the source code download for the latest version.
+2. Once your source code is downloaded, go ahead and extract it to a permanent place on your computer.
+3. Then just set your homepage to the HTML file.
+
 # Sidenotes
 - These add-ons dont do anything, just look weird.
 - The add-on is in alpha, so dont expect anything of a normal add-on.
+- The homepage is compatible with most browsers.
