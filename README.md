@@ -28,6 +28,7 @@ Here are some optional things you can do to enhance your experience.
 1. Doing this requires downloading the source code. You can do this <a href="https://www.github.com/d-nni3l/Luna/releases">here<a> by clicking the source code download for the latest version.
 2. Once your source code is downloaded, go ahead and extract it to a permanent place on your computer.
 3. Then just set your homepage to the HTML file.
+- NOTE: PLEASE KEEP FILES IN THEIR ORDER
 
 # Sidenotes
 - These add-ons dont do anything, just look weird.
