@@ -1,16 +1,16 @@
 {
 
-  "description": "Effortlessly change Luna HelixCore Settings",
+  "description": "Effortlessly change Luna helixCore settings",
   "manifest_version": 2,
   "name": "Luna Quick Settings",
-  "version": "0.3.1",
+  "version": "0.4.0",
  
   "browser_action": {
     "browser_style": true,
     "default_popup": "files/page.html",
     "default_icon": {
-      "16": "files/radish16.png",
-      "32": "files/radish32.png"
+      "16": "files/moon16.png",
+      "32": "files/moon32.png"
     }
   }
 
