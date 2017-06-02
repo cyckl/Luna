@@ -33,3 +33,5 @@ Here are some optional things you can do to enhance your experience.
 - These add-ons dont do anything, just look weird.
 - The add-on is in alpha, so dont expect anything of a normal add-on.
 - The homepage is compatible with most browsers.
+
+<b>Good luck!</b>
