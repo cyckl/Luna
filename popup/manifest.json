@@ -1,8 +1,8 @@
 {
 
-  "description": "Effortlessly change ROT HelixCore Settings",
+  "description": "Effortlessly change Luna HelixCore Settings",
   "manifest_version": 2,
-  "name": "ROT Quick Settings",
+  "name": "Luna Quick Settings",
   "version": "0.3.1",
  
   "browser_action": {
