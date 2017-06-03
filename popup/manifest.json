@@ -3,7 +3,7 @@
   "description": "Effortlessly change Luna helixCore settings",
   "manifest_version": 2,
   "name": "Luna Quick Settings",
-  "version": "0.4.0",
+  "version": "0.4.1",
  
   "browser_action": {
     "browser_style": true,
