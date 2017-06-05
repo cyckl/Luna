@@ -4,7 +4,7 @@ Luna is an open-source English project meant to parody TOR. Please keep in mind 
 # Getting needed programs and files
 To get the plugin ready for install, follow this guide.
 
-1. Download Firefox <a href="https://www.mozilla.org/en-us/firefox/new/?scene=2">here<a> (v53 advised)
+1. Download Firefox <a href="https://www.mozilla.org/en-us/firefox/new/?scene=2">here<a> (v53 or higher advised)
 2. Download latest version of button <a href="https://www.github.com/d-nni3l/Luna/releases">here<a>
 
 # Enabling the plugin
@@ -28,7 +28,7 @@ Here are some optional things you can do to enhance your experience.
 1. Doing this requires downloading the source code. You can do this <a href="https://www.github.com/d-nni3l/Luna/releases">here<a> by clicking the source code download for the latest version.
 2. Once your source code is downloaded, go ahead and extract it to a permanent place on your computer.
 3. Then just set your homepage to the HTML file.
-- NOTE: PLEASE KEEP FILES IN THEIR ORDER
+- NOTE: PLEASE KEEP FILES IN THEIR ORDER AND HIEARCHY
 
 # Sidenotes
 - These add-ons dont do anything, just look weird.
