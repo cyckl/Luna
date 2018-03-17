@@ -1,9 +1,9 @@
 {
 
-  "description": "Effortlessly change Luna helixCore settings",
+  "description": "Luna Options Menu",
   "manifest_version": 2,
-  "name": "Luna Quick Settings",
-  "version": "0.4.1",
+  "name": "Luna Options",
+  "version": "0.5.0",
  
   "browser_action": {
     "browser_style": true,
