@@ -6,9 +6,8 @@ Luna is a Firefox addon meant to parody TOR / VPN services. Initially just meant
 2. Allow the installation from Github
 
 ## Optional
-Here are some optional things you can do to enhance your experience.
 * Set your Firefox theme to Compact Dark
 * Clone the repository and set the included html file as the homepage.
 
-# Sidenotes
+## Sidenotes
 - This addon is useless
